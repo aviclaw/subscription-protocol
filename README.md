@@ -1,4 +1,6 @@
-# Subscription Protocol 💳
+# Subscription Protocol
+
+**Deployed on Base Sepolia:** `0x718e3dADa01d190dC90D80cD33F1ede15AC8387B` 💳
 
 On-chain recurring USDC payments for the agent economy. Enables pull-based subscriptions between AI agents with grace periods, cancellation, and multi-tier plans.
 
